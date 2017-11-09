@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
   background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  /*background: yellow;*/
   background-size: cover;
 }
 body,html {
